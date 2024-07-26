@@ -1,4 +1,9 @@
 # ITF2024
 
-Hello Future 67070018
-I Love Ramen Tempura
+## Let's Introduce My Self
+### My name is Chanyaphat
+### I'm hungry want to eat 3 food on this list
+- Chicken Noodle
+- Ramen
+- Pizza
+**NOW !!!**
