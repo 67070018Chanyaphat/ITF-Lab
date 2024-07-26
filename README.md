@@ -11,3 +11,12 @@
 ## No it sold out !!!!!!!
 ## **NOW !!!**
 
+# How to display on Github
+- git pull 
+- edit on your VS
+- save file
+- git add . 
+- git commit -m "describe"
+- git push
+## Now it show on your GitHub
+
